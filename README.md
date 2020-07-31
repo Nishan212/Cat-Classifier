@@ -5,3 +5,6 @@
 ## Garbage Classifier : 
 - A CNN Modle that classifies Six classes of garbage (cardbaord, glass, metal, paper, plastic, trash).
 - Dataset Source : [Kaggle](https://www.kaggle.com/asdasdasasdas/garbage-classification)
+
+
+Please Note that, this repo was created to illustrate the flaws of using a small dataset and the advantages of transfer learning in such a case (yet to be done).
